@@ -5,10 +5,10 @@ export default function Footer() {
   return (
     <>
       <div>
-        <NavLink to="" target="_blank">
+        <NavLink to="https://github.com/zeeshan-akhter/hospital-management-app" target="_blank">
           <GitHubIcon />
         </NavLink>
-        <NavLink to="" target="_blank">
+        <NavLink to="https://replit.com/@zeeshanakhter/hospitalmanagementapi" target="_blank">
           <StorageIcon />
         </NavLink>
       </div>
